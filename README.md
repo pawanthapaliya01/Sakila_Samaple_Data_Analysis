@@ -1,1 +1,1 @@
-# Sakila_Samaple_Data_Analysis
+# Sakila_Sample_Data_Analysis
