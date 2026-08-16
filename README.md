@@ -1,4 +1,3 @@
-# Sakila_Sample_Data_Analysis
 
 # Sakila DVD Rental Business Analysis | MySQL
 Analyzed a relational DVD rental database using SQL to evaluate customer behavior, film performance, rental activity, revenue, and store performance.
