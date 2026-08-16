@@ -8,27 +8,27 @@ Created reusable SQL views and demonstrated indexing concepts to support analyti
 
 # Tools & Technologies
 
-MySQL
-MySQL Workbench
-SQL
-Relational Database Analysis
-Data Analytics
+- MySQL
+- MySQL Workbench
+- SQL
+- Relational Database Analysis
+- Data Analytics
 
 # SQL Skills
-SQL
-MySQL
-Data Analysis
-Business Analysis
-Relational Databases
-Joins
-Aggregations
-Subqueries
-CTEs
-Window Functions
-Data Filtering
-Customer Segmentation
-Revenue Analysis
-Time-Series Analysis
+- SQL
+- MySQL
+- Data Analysis
+- Business Analysis
+- Relational Databases
+- Joins
+- Aggregations
+- Subqueries
+- CTEs
+- Window Functions
+- Data Filtering
+- Customer Segmentation
+- Revenue Analysis
+- Time-Series Analysis
 
 
 # Project Summary
